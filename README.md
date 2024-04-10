@@ -9,4 +9,6 @@ Values: The project involves generating synthetic time-series data, creating and
 Advantages: The project stands out by leveraging autoencoders to effectively capture intricate temporal patterns in time-series data, enabling accurate forecasting of future values. Autoencoders excel in learning meaningful representations from sequential data, facilitating better understanding and prediction of complex temporal dynamics. By providing precise forecasts, the project aids in decision-making across various domains, offering insights into future trends and optimizing resource allocation. The advantages include improved accuracy, scalability, and interpretability of forecasts, empowering stakeholders with actionable insights for informed planning and decision-making.
 
 
+
+
 ![Time_Series_Output](https://github.com/Haarianandh/tnsdc-genAI/assets/114047501/7421f779-fa12-4dd9-8702-308d64f8ab69)
