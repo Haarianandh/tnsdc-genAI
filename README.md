@@ -11,4 +11,8 @@ Advantages: The project stands out by leveraging autoencoders to effectively cap
 
 
 
+https://github.com/Haarianandh/tnsdc-genAI/assets/114047501/58d80791-cd55-4a69-a964-179889f3c460
+
+
+
 ![Time_Series_Output](https://github.com/Haarianandh/tnsdc-genAI/assets/114047501/7421f779-fa12-4dd9-8702-308d64f8ab69)
